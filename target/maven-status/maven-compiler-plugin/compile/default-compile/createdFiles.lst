@@ -1,0 +1,10 @@
+com\pomacademy\qa\pages\SignUpPage.class
+com\pomacademy\qa\base\TestBase.class
+com\pomacademy\qa\pages\MyAccountPage.class
+com\pomacademy\qa\pages\ShoppingcartPage.class
+com\pomacademy\qa\util\TestUtil.class
+com\pomacademy\qa\pages\HomePage.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\pomacademy\qa\pages\PdpPage.class
+com\pomacademy\qa\pages\SearchPage.class
+com\pomacademy\qa\util\WebEventListener.class
